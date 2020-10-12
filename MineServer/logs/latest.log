@@ -1,0 +1,42 @@
+[00:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: J6s was fireballed by J6s
+[00:02:47] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:02:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: J6s lost connection: Disconnected
+[00:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: J6s left the game
+[00:02:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ihateacm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[00:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ihateacm left the game
+[00:03:00] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:03:00] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2854,ic2@2.8.220-ex112,mcp@9.42
+[00:03:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:03:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: J6s[/10.55.129.217:51106] logged in with entity id 208470 at (195.80932277096088, 69.0, 136.27945904741438)
+[00:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: J6s joined the game
+[00:03:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gle8098 lost connection: Timed out
+[00:03:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gle8098 left the game
+[00:04:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: J6s lost connection: Disconnected
+[00:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: J6s left the game
+[00:05:32] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:05:32] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,ic2@2.8.220-ex112,mcp@9.42
+[00:05:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:05:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gle8098[/10.55.130.194:64102] logged in with entity id 211397 at (118.51701955688823, 63.0, 211.71472096040858)
+[00:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gle8098 joined the game
+[00:06:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gle8098 lost connection: Timed out
+[00:06:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gle8098 left the game
+[00:07:59] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:07:59] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,ic2@2.8.220-ex112,mcp@9.42
+[00:08:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:08:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gle8098[/10.55.130.194:64287] logged in with entity id 213223 at (119.40405268275477, 63.0, 211.66828207266602)
+[00:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gle8098 joined the game
+[00:10:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gle8098 lost connection: Disconnected
+[00:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gle8098 left the game
+[00:19:26] [Server thread/INFO] [ic2.PlayerActivity]: Player harmoning/afc3d3b7-4301-310c-9714-487a4d9b688e used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=generator] (te Generator) at dim 0: 118/86/184.
+[00:20:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: harmoning lost connection: Disconnected
+[00:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: harmoning left the game
+[00:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /worldborder center <x> <z>
+[00:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /worldborder damage <buffer|amount> ...
+[00:20:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:20:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:20:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:20:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:20:43] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:20:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:20:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:20:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

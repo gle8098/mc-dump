@@ -1,0 +1,43 @@
+---- Minecraft Crash Report ----
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 10/10/20 9:12 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at net.minecraft.world.WorldServer.func_73042_a(WorldServer.java:1052)
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:1000)
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:408)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 5.8.10-arch1-1
+	Java Version: 1.8.0_265, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3636368968 bytes (3467 MB) / 4150788096 bytes (3958 MB) up to 4150788096 bytes (3958 MB)
+	JVM Flags: 2 total; -Xmx4096M -Xms4096M
+	IntCache: cache: 16, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID        | Version       | Source                              | Signature                                |
+	|:------ |:--------- |:------------- |:----------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft | 1.12.2        | minecraft.jar                       | None                                     |
+	| LCHIJA | mcp       | 9.42          | minecraft.jar                       | None                                     |
+	| LCHIJA | FML       | 8.0.99.99     | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge     | 14.23.5.2854  | forge-1.12.2-14.23.5.2854.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | ic2       | 2.8.220-ex112 | industrialcraft-2-2.8.220-ex112.jar | de041f9f6187debbc77034a344134053277aa3b0 |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [EntityPlayerMP['J6s'/7305, l='world', x=101.16, y=68.00, z=172.66]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

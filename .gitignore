@@ -1,2 +1,5 @@
 *.jar
 *.jar.log
+MineServer/logs
+MineServer/crash-reports
+*.lock

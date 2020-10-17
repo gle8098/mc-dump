@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-10-17 03:05:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-10-10 22:10:04 +0300"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-10 22:42:12 +0300"
@@ -260,6 +272,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-10-10 20:28:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
     },
     "done": true
   },
@@ -327,6 +345,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-10-10 21:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-10-17 03:28:05 +0300"
     },
     "done": true
   },
@@ -480,9 +504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-10-17 02:58:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-13 00:15:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-10-17 03:27:06 +0300"
     },
     "done": true
   },
@@ -507,6 +543,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-10-10 23:24:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
     },
     "done": true
   },
@@ -540,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-10-10 22:22:34 +0300"
@@ -555,6 +603,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-10-13 00:16:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-10-17 03:06:10 +0300"
     },
     "done": true
   },
@@ -708,6 +762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2020-10-10 23:24:14 +0300"
@@ -729,9 +795,16 @@
       "zombie": "2020-10-10 21:06:17 +0300",
       "witch": "2020-10-13 00:43:08 +0300",
       "spider": "2020-10-10 22:01:27 +0300",
-      "creeper": "2020-10-10 22:10:31 +0300"
+      "creeper": "2020-10-10 22:10:31 +0300",
+      "enderman": "2020-10-17 04:16:44 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -775,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-10-17 03:28:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-10-10 22:54:24 +0300"
@@ -787,15 +866,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2020-10-17 03:55:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-10 22:42:12 +0300"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-10-10 20:57:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
     },
     "done": true
   },
@@ -859,9 +956,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2020-10-17 03:55:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-10-10 23:51:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-10-17 02:58:07 +0300"
     },
     "done": true
   },
@@ -892,6 +1001,18 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-10-13 03:45:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2020-10-17 03:55:54 +0300"
     },
     "done": true
   },
@@ -1006,6 +1127,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-10-13 02:51:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-10-17 03:05:58 +0300"
     },
     "done": true
   },
@@ -1278,12 +1405,15 @@
       "forest": "2020-10-10 21:32:53 +0300",
       "birch_forest": "2020-10-10 20:29:08 +0300",
       "beaches": "2020-10-10 22:14:25 +0300",
+      "extreme_hills_with_trees": "2020-10-17 03:06:50 +0300",
       "forest_hills": "2020-10-10 20:25:12 +0300",
       "plains": "2020-10-10 22:14:15 +0300",
       "birch_forest_hills": "2020-10-10 21:25:56 +0300",
       "ocean": "2020-10-10 22:19:59 +0300",
+      "extreme_hills": "2020-10-17 03:05:38 +0300",
       "roofed_forest": "2020-10-10 22:12:02 +0300",
-      "river": "2020-10-10 20:28:22 +0300"
+      "river": "2020-10-10 20:28:22 +0300",
+      "stone_beach": "2020-10-17 04:24:49 +0300"
     },
     "done": false
   },
@@ -1371,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2020-10-17 03:55:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-10-10 20:28:38 +0300"
@@ -1395,9 +1531,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-10-17 03:28:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-10-10 21:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-10-17 04:17:16 +0300"
     },
     "done": true
   },
@@ -1434,6 +1582,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2020-10-13 00:26:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-10-17 03:55:56 +0300"
     },
     "done": true
   },
@@ -1488,6 +1642,18 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-10-10 22:42:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-10-17 04:17:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-10-17 04:06:38 +0300"
     },
     "done": true
   },

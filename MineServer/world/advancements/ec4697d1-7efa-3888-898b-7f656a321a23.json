@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-10-20 11:51:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-10-10 21:48:32 +0300"
@@ -543,6 +549,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-10-10 22:10:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-10-20 11:44:39 +0300"
     },
     "done": true
   },
@@ -920,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-10-20 12:02:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-10 22:42:12 +0300"
@@ -956,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-10-20 11:44:39 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-10-10 22:42:12 +0300"
@@ -965,6 +989,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-10-13 02:51:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-10-20 12:47:46 +0300"
     },
     "done": true
   },
@@ -1434,6 +1464,7 @@
     "criteria": {
       "forest": "2020-10-10 21:32:53 +0300",
       "birch_forest": "2020-10-10 20:29:08 +0300",
+      "deep_ocean": "2020-10-20 12:45:24 +0300",
       "beaches": "2020-10-10 22:14:25 +0300",
       "extreme_hills_with_trees": "2020-10-17 03:06:50 +0300",
       "forest_hills": "2020-10-10 20:25:12 +0300",
@@ -1462,6 +1493,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-13 00:15:56 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-10-20 11:53:50 +0300"
     },
     "done": true
   },
